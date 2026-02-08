@@ -10,7 +10,7 @@ export function Footer() {
             STOP WAITING. START TRAINING.
           </h3>
           <p className="text-red-100 text-lg mb-8 max-w-xl mx-auto">
-            Join APEX Fitness today and get your first week free. No contracts. No excuses.
+            Join BR Fitness today and get your first week free. No contracts. No excuses.
           </p>
           <a
             href="#contact"
@@ -29,7 +29,7 @@ export function Footer() {
             <a href="#home" className="inline-flex items-center gap-2">
               <Dumbbell className="w-6 h-6 text-brand-red" />
               <span className="text-xl font-black tracking-tighter text-white">
-                APEX<span className="text-brand-red">.</span>
+                B R <span className="text-brand-red">-</span> F I T N E S S<span className="text-brand-red">.</span>
               </span>
             </a>
             <p className="text-gray-500 text-sm mt-3">
@@ -67,7 +67,7 @@ export function Footer() {
         {/* Bottom bar */}
         <div className="mt-10 pt-8 border-t border-brand-gray-light flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-gray-600 text-xs">
-            © 2024 APEX Fitness. All rights reserved.
+            © 2024 BR Fitness. All rights reserved.
           </p>
           <div className="flex gap-6">
             <a href="#" className="text-gray-600 text-xs hover:text-gray-400 transition-colors">Privacy Policy</a>

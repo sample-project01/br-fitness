@@ -31,7 +31,7 @@ export function Hero() {
           <div className="animate-fade-in-up inline-flex items-center gap-2 bg-brand-red/10 border border-brand-red/30 rounded-full px-4 py-1.5 mb-5">
             <span className="w-2 h-2 bg-brand-red rounded-full animate-pulse" />
             <span className="text-xs font-semibold uppercase tracking-widest text-brand-red">
-              Now Open — Limited Founding Memberships
+              Now Open — THE BEST GYM IN YOUR SAGAR
             </span>
           </div>
 
@@ -55,7 +55,7 @@ export function Hero() {
               href="#contact"
               className="gradient-red gradient-red-hover animate-pulse-glow text-white font-bold text-base uppercase tracking-wider px-10 py-4 rounded-sm transition-all duration-300 hover:scale-105 inline-flex items-center justify-center gap-2"
             >
-              Start Your Transformation
+              Get Your Free Trial Today
               <svg className="w-5 h-5" fill="none" viewBox="0 0 
                24" stroke="currentColor" strokeWidth={2.5}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6" />

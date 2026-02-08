@@ -41,7 +41,7 @@ export function About() {
             MORE THAN A GYM<span className="text-brand-red">.</span>
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto mt-6 leading-relaxed">
-            APEX Fitness isn't just a place to work out — it's where champions are forged. Built for those who refuse to settle, 
+            BR Fitness isn't just a place to work out — it's where champions are forged. Built for those who refuse to settle, 
             our state-of-the-art facility and world-class training team are committed to one thing: <strong className="text-white">your transformation.</strong>
           </p>
         </div>
